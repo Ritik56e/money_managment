@@ -11,7 +11,14 @@ A premium, offline-first personal finance tracker for Android built with **Jetpa
 - **Premium UI**: Modern dark theme with smooth animations and glassmorphism.
 
 ## Screenshots 📸
-*(Add your screenshots here later!)*
+
+![WhatsApp Image 2026-03-20 at 10 20 05 PM](https://github.com/user-attachments/assets/9f371835-4c53-4503-aaa4-539656ec3403)
+
+![WhatsApp Image 2026-03-20 at 10 20 05 PM](https://github.com/user-attachments/assets/ae578d7b-914f-469c-a6a5-6e730e22174d)
+
+![WhatsApp Image 2026-03-20 at 10 20 05 PM (1)](https://github.com/user-attachments/assets/2583b3ad-a3ce-44ee-8303-5b5b1d3214d3)
+
+![WhatsApp Image 2026-03-20 at 10 20 06 PM (2)](https://github.com/user-attachments/assets/d4027ac3-3193-436c-80e4-726908ec94f3)
 
 ## Tech Stack 🛠
 - **Kotlin**: Primary programming language.

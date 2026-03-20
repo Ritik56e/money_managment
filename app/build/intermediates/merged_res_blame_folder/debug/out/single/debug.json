@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.12\\com.example.moneymanager.app-merged_res-50:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.12\\com.example.moneymanager.app-main-52:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.12\\com.example.moneymanager.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.12\\com.example.moneymanager.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xxhdpi_managemoney_foreground.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xxhdpi/managemoney_foreground.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-hdpi_managemoney_round.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-hdpi/managemoney_round.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/drawable_managemoney_background.xml.flat",
+        "source": "com.example.moneymanager.app-main-52:/drawable/managemoney_background.xml"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xhdpi_managemoney.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xhdpi/managemoney.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-mdpi_managemoney_foreground.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-mdpi/managemoney_foreground.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xhdpi_managemoney_foreground.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xhdpi/managemoney_foreground.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xxhdpi_managemoney_round.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xxhdpi/managemoney_round.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-mdpi_managemoney_round.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-mdpi/managemoney_round.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-anydpi-v26_managemoney_round.xml.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-anydpi-v26/managemoney_round.xml"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xxxhdpi_managemoney.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xxxhdpi/managemoney.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-mdpi_managemoney.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-mdpi/managemoney.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xxxhdpi_managemoney_round.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xxxhdpi/managemoney_round.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xxxhdpi_managemoney_foreground.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xxxhdpi/managemoney_foreground.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-anydpi-v26_managemoney.xml.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-anydpi-v26/managemoney.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.12\\com.example.moneymanager.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.12\\com.example.moneymanager.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-hdpi_managemoney.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-hdpi/managemoney.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-hdpi_managemoney_foreground.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-hdpi/managemoney_foreground.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xhdpi_managemoney_round.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xhdpi/managemoney_round.webp"
+    },
+    {
+        "merged": "com.example.moneymanager.app-merged_res-50:/mipmap-xxhdpi_managemoney.webp.flat",
+        "source": "com.example.moneymanager.app-main-52:/mipmap-xxhdpi/managemoney.webp"
+    }
+]

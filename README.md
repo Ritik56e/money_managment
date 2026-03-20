@@ -1,2 +1,2 @@
-# money_managment
+# money_management
 money mangment android app 
